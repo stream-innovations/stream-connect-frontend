@@ -1,7 +1,7 @@
 # StreamConnect Frontend
 Helping Open-sourced Stream Protocol projects
 
-## Reward Program: StreamConnect Rewards
+## Reward Program: Stream Protocol Rewards
 
 StreamConnect Rewards is a loyalty and engagement program designed to incentivize and reward members of the Stream Protocol community for their contributions and support. As a participant in StreamConnect Rewards, you can earn Stream Tokens by actively participating in various activities and helping to grow the Stream Protocol ecosystem.
 
